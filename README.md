@@ -1,42 +1,25 @@
 # Guitar Journey
 
-Ozzy Osbourne \
-Mama, I'm Coming Home
+Ozzy Osbourne | Mama, I'm Coming Home
 
+Rage Against the Machine | Sleep Now in the Fire
 
-Lynyrd Skynyrd \
-Sweet Home Alabama
+Lynyrd Skynyrd | Sweet Home Alabama
 
-Fleetwood Mac - Peter Green
+Fleetwood Mac - Peter Green | Oh Well
 
-Oh Well
+The Animals | House Of The Rising Sun
 
-The Animals
+The Rolling Stones | The Last Time 
 
-House Of The Rising Sun
+Pink Floyd | Wish You Were Here
 
-The Rolling Stones
+Kings Of Leon | Back Down South
 
-The Last Time 
+Nirvana | Come as You Are
 
-Pink Floyd
+Tom Petty | Free Fallin’
 
-Wish You Were Here
-
-Kings Of Leon
-
-Back Down South
-
-Nirvana
-
-Come as You Are
-
-Tom Petty
-
-Free Fallin’
-
-Johnny Cash
-
-Folsom Prison Blues
+Johnny Cash | Folsom Prison Blues
 
 
