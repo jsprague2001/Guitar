@@ -1,7 +1,7 @@
 # Guitar Journey
 
 Ozzy Osbourne
-Mama, I'm Coming Home
+  Mama, I'm Coming Home
 
 Lynyrd Skynyrd
 Sweet Home Alabama
