@@ -2,24 +2,22 @@
 
 Ozzy Osbourne | Mama, I'm Coming Home
 
-Rage Against the Machine | Sleep Now in the Fire
+Fleetwood Mac - Peter Green | Oh Well
 
 Lynyrd Skynyrd | Sweet Home Alabama
 
-Fleetwood Mac - Peter Green | Oh Well
+Nirvana | Come as You Are
+
+Tom Petty | Free Fallin’
+
+Rage Against the Machine | Sleep Now in the Fire
 
 The Animals | House Of The Rising Sun
+
+Johnny Cash | Folsom Prison Blues
 
 The Rolling Stones | The Last Time 
 
 Pink Floyd | Wish You Were Here
 
 Kings Of Leon | Back Down South
-
-Nirvana | Come as You Are
-
-Tom Petty | Free Fallin’
-
-Johnny Cash | Folsom Prison Blues
-
-
